@@ -1,0 +1,10 @@
+smsc_host: ~ # SMSC host
+smsc_port: ~ # SMSC port
+esme_username: ~ # ESME username
+esme_password: ~ # ESME password
+emse_system:  ~ # ESME system type
+carrier: ~ # carrier (I|M|P)
+shortcode: ~
+beanstalk_host: ~ # Beanstalk server host
+beanstalk_port: ~ # Beanstalk server port
+beanstalk_tube: ~ # Beanstalk tube to put
